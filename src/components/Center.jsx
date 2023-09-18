@@ -1,5 +1,5 @@
 import React from "react";
-import Img5 from "img/img5.jpg";
+// import "" from "img/img5.jpg";
 
 export default function Center() {
   let arr = [
@@ -10,7 +10,7 @@ export default function Center() {
         your last five? Just swipe left. Mark splits by selecting pause or
         using gestures, like tapping the screen or double-clicking the
         side button. And get a full post-run report, including elevation.`,
-      img: Img5,
+      img: "",
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ export default function Center() {
         emoji from friends. And reminders triggered by your friends’
         shared activity, the current weather, or your own history give you
         every reason to run.`,
-      img: Img5,
+      img: "",
     },
     {
       id: 3,
