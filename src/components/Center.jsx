@@ -1,5 +1,5 @@
 import React from "react";
-import Img5 from "../img/img5.jpg";
+import Img5 from "img/img5.jpg";
 
 export default function Center() {
   let arr = [
